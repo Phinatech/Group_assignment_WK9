@@ -56,8 +56,8 @@ net-salary-calculator/
 5. Cleaner modular code: Each function handles one task and communicates using pointers.
 
 
-## How to Compile and Run
 
+## How to Compile and Run
 ```bash
 # Compile the program
 make
@@ -65,3 +65,24 @@ make
 # Run the program
 ./net_salary
 
+**Examples of Input 
+Enter gross salary in USD: 350
+--- Salary Breakdown ---
+Gross Salary:         $350.00
+Tax:                  $98.00
+Medication Insurance: $17.50
+Maternity Leave:      $1.05
+Social Security Fund: $10.50
+-------------------------------
+Net Salary: $223. - (Actual: $223. - formatted to 2 decimals)
+
+**Group Work and Contributions
+Chinemerem Judith Ugbo - Created and Implemented the Net_salary and also the documentations.
+Tam
+
+**GitHub Repository Link:**  
+🔗 https://github.com/Phinatech/Group_assignment_WK9
+
+
+### License
+This project is for academic purposes only under the ALU Software Engineering course.
