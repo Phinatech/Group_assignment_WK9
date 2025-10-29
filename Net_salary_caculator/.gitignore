@@ -1,0 +1,5 @@
+# build artifacts
+/build
+*.o
+net_salary
+.DS_Store
