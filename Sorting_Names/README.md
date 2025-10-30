@@ -100,7 +100,7 @@ typedef int (*CompareFunc)(const char*, const char*);
 ## File Structure
 ```
 sort.c          # Main program file
-README.md              # This file
+README.md       # This file
 ```
 
 ---
